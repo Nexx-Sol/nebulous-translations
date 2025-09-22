@@ -1248,7 +1248,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas; si compra
     <string name="Starting___">Iniciando…</string>
     <string name="Tournament_Starting">Torneo Iniciando</string>
     <string name="Max_Tilt_Angle_3D_">Ángulo de inclinación máxima 3D:</string>
-    <string name="Mode_3D">Modo 3D</string>
+    <string name="Moperfil 3D</string>
     <string name="Names_Below_Blobs">Nombres debajo de blobs</string>
     <string name="Name_Scale_">"Tamaño de Nombre:"</string>
     <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">Tu dispositivo tiene una mala conexión con el servidor. Esto podría causar lag. Por favor, verifica tu servicio de wifi o celular o prueba con una conexión a internet diferente. También asegúrate de jugar en el servidor más cercano a ti.</string>
@@ -1408,8 +1408,7 @@ Comandos:
 
 - Jugar y comunicarte con otros jugadores de todo el mundo
 - Compartir tu progreso con los demás
-- Crear y decorar tu perfil
-- Comprar plasma en la tienda
+- Crear y decorar tu peSEPARACIONprar plasma en la tienda
 - Subir skins creadas por usuarios
 
 Si no deseas registrarte, aún puedes jugar en modo individual."
